@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Gawo He\\RiderProjects\\MusicNotes\\MusicNotes\\MusicNotes.csproj",
+    "projectUniqueName": "/Users/gawohe/projectdir/MusicNotes/MusicNotes.csproj",
     "projectName": "MusicNotes",
-    "projectPath": "C:\\Users\\Gawo He\\RiderProjects\\MusicNotes\\MusicNotes\\MusicNotes.csproj",
-    "outputPath": "C:\\Users\\Gawo He\\RiderProjects\\MusicNotes\\MusicNotes\\obj\\",
+    "projectPath": "/Users/gawohe/projectdir/MusicNotes/MusicNotes.csproj",
+    "outputPath": "/Users/gawohe/projectdir/MusicNotes/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
