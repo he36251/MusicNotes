@@ -1,14 +1,28 @@
-C:\Users\Gawo He\RiderProjects\MusicNotes\MusicNotes\bin\Debug\netcoreapp2.2\MusicNotes.deps.json
-C:\Users\Gawo He\RiderProjects\MusicNotes\MusicNotes\bin\Debug\netcoreapp2.2\MusicNotes.runtimeconfig.json
-C:\Users\Gawo He\RiderProjects\MusicNotes\MusicNotes\bin\Debug\netcoreapp2.2\MusicNotes.runtimeconfig.dev.json
-C:\Users\Gawo He\RiderProjects\MusicNotes\MusicNotes\bin\Debug\netcoreapp2.2\MusicNotes.dll
-C:\Users\Gawo He\RiderProjects\MusicNotes\MusicNotes\bin\Debug\netcoreapp2.2\MusicNotes.pdb
-C:\Users\Gawo He\RiderProjects\MusicNotes\MusicNotes\obj\Debug\netcoreapp2.2\MusicNotes.csprojAssemblyReference.cache
-C:\Users\Gawo He\RiderProjects\MusicNotes\MusicNotes\obj\Debug\netcoreapp2.2\MusicNotes.csproj.CoreCompileInputs.cache
-C:\Users\Gawo He\RiderProjects\MusicNotes\MusicNotes\obj\Debug\netcoreapp2.2\MusicNotes.RazorAssemblyInfo.cache
-C:\Users\Gawo He\RiderProjects\MusicNotes\MusicNotes\obj\Debug\netcoreapp2.2\MusicNotes.RazorAssemblyInfo.cs
-C:\Users\Gawo He\RiderProjects\MusicNotes\MusicNotes\obj\Debug\netcoreapp2.2\MusicNotes.AssemblyInfoInputs.cache
-C:\Users\Gawo He\RiderProjects\MusicNotes\MusicNotes\obj\Debug\netcoreapp2.2\MusicNotes.AssemblyInfo.cs
-C:\Users\Gawo He\RiderProjects\MusicNotes\MusicNotes\obj\Debug\netcoreapp2.2\MusicNotes.RazorTargetAssemblyInfo.cache
-C:\Users\Gawo He\RiderProjects\MusicNotes\MusicNotes\obj\Debug\netcoreapp2.2\MusicNotes.dll
-C:\Users\Gawo He\RiderProjects\MusicNotes\MusicNotes\obj\Debug\netcoreapp2.2\MusicNotes.pdb
+C:/Users/Gawo He/RiderProjects/MusicNotes/MusicNotes/bin/Debug/netcoreapp2.2/MusicNotes.deps.json
+C:/Users/Gawo He/RiderProjects/MusicNotes/MusicNotes/bin/Debug/netcoreapp2.2/MusicNotes.runtimeconfig.json
+C:/Users/Gawo He/RiderProjects/MusicNotes/MusicNotes/bin/Debug/netcoreapp2.2/MusicNotes.runtimeconfig.dev.json
+C:/Users/Gawo He/RiderProjects/MusicNotes/MusicNotes/bin/Debug/netcoreapp2.2/MusicNotes.dll
+C:/Users/Gawo He/RiderProjects/MusicNotes/MusicNotes/bin/Debug/netcoreapp2.2/MusicNotes.pdb
+C:/Users/Gawo He/RiderProjects/MusicNotes/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.csprojAssemblyReference.cache
+C:/Users/Gawo He/RiderProjects/MusicNotes/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.csproj.CoreCompileInputs.cache
+C:/Users/Gawo He/RiderProjects/MusicNotes/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.RazorAssemblyInfo.cache
+C:/Users/Gawo He/RiderProjects/MusicNotes/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.RazorAssemblyInfo.cs
+C:/Users/Gawo He/RiderProjects/MusicNotes/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.AssemblyInfoInputs.cache
+C:/Users/Gawo He/RiderProjects/MusicNotes/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.AssemblyInfo.cs
+C:/Users/Gawo He/RiderProjects/MusicNotes/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.RazorTargetAssemblyInfo.cache
+C:/Users/Gawo He/RiderProjects/MusicNotes/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.dll
+C:/Users/Gawo He/RiderProjects/MusicNotes/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.pdb
+/Users/gawohe/projectdir/MusicNotes/bin/Debug/netcoreapp2.2/MusicNotes.deps.json
+/Users/gawohe/projectdir/MusicNotes/bin/Debug/netcoreapp2.2/MusicNotes.runtimeconfig.json
+/Users/gawohe/projectdir/MusicNotes/bin/Debug/netcoreapp2.2/MusicNotes.runtimeconfig.dev.json
+/Users/gawohe/projectdir/MusicNotes/bin/Debug/netcoreapp2.2/MusicNotes.dll
+/Users/gawohe/projectdir/MusicNotes/bin/Debug/netcoreapp2.2/MusicNotes.pdb
+/Users/gawohe/projectdir/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.csprojAssemblyReference.cache
+/Users/gawohe/projectdir/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.csproj.CoreCompileInputs.cache
+/Users/gawohe/projectdir/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.RazorAssemblyInfo.cache
+/Users/gawohe/projectdir/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.RazorAssemblyInfo.cs
+/Users/gawohe/projectdir/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.AssemblyInfoInputs.cache
+/Users/gawohe/projectdir/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.AssemblyInfo.cs
+/Users/gawohe/projectdir/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.RazorTargetAssemblyInfo.cache
+/Users/gawohe/projectdir/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.dll
+/Users/gawohe/projectdir/MusicNotes/obj/Debug/netcoreapp2.2/MusicNotes.pdb
